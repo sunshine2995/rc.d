@@ -1,0 +1,44 @@
+# Shell
+ipython
+jupyter
+
+# Web
+bottle
+django
+flask
+sanic
+tornado
+gunicorn
+celery
+
+# Async
+aiohttp
+gevent
+pulsar
+twisted
+uvloop
+
+# Spider
+lxml
+pyquery
+beautifulsoup4
+requests
+selenium
+scrapy
+
+# Style
+pep8
+flake8
+pylint
+
+# Data
+pymysql
+redis
+numpy
+
+# Utility
+mistune
+paramiko
+pexpect
+pillow
+pysocks
