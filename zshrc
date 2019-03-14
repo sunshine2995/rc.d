@@ -64,7 +64,7 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-DEFAULT_USER=`whoami`
+DEFAULT_USER=`sunshine`
 
 alias grep='grep -I --color=auto --exclude-dir={.git,.hg,.svn,.venv}'
 export GREP_COLOR='1;31'
